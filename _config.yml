@@ -1,21 +1,21 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Pio Blog
+SEOTitle: 徒阿彬的博客 | Pio Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: vuzpio@gmail.com
+description: "关于热爱的一切，有必要记录下来。 | 徒阿彬，技术方向:Java Coder(Just Can Only Be Defined As Coder, But I'm Trying.) Linux Player(Love To Research Some New IT-Technology) |兴致所好：Music > PostRock(喜欢后摇安静而爆炸，「GodSpeedYou！BlackEmperor」,「惘闻」,「Sigur Rós」忠粉) Traveller > (14年起东南岸骑行穿浙,赣,鄂,川入藏，旅行摆摊，徒搭青藏，15年滇缅边境徒步，爱大理，爱拉萨。致敬Jack Kerouac，计划苦旅东南亚，印度...)| 这里是 @Pio徒阿彬的个人博客， 愿你我一起记录美好瞬间。"
+keyword: "徒阿彬, Java, Linux, Rock, PostRock, Traveller, 博客, 个人网站, 互联网, 后端"
+url: "https://rockspeed.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     @徒阿彬
+zhihu_username:     piovuz
+github_username:    piovuz
+twitter_username:   @徒阿彬
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Pio
 
 # Netease setttings
 netease_comment: false
@@ -61,13 +61,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: rockspeed.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "不能改变世界，但愿看清世界<br>离开之前，一切都是过程"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
