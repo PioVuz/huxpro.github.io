@@ -1,11 +1,8 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 写点代码，做点营生，  
+> 苟且生活之外，一切遵循内心所向。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
-
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
-
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+Hey，我是徒阿彬，**后摇患者**|**苦旅成瘾**|**社交障碍早期**出没于[博客](https://rockspeed.me)、[微博](weibo.com/wubin1991)、[Twitter](https://twitter.com/pio_vuz/)、[Github](http://github.com/piovuz) 等地带。
+徒阿彬，技术方向:Java Coder(Just Can Only Be Defined As Coder, But I'm Trying.) Linux Player(Love To Research Some New IT-Technology) |兴致所好：Music > PostRock(喜欢后摇安静而爆炸，「GodSpeedYou！BlackEmperor」,「惘闻」,「Sigur Rós」忠粉) Traveller > (14年起东南岸骑行穿浙,赣,鄂,川入藏，旅行摆摊，徒搭青藏，15年滇缅边境徒步，爱大理，爱拉萨。致敬Jack Kerouac，计划苦旅东南亚，印度...)| 这里是 @Pio徒阿彬的个人博客， 欢迎交流。"
 
 
 ##### Talks

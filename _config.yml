@@ -67,7 +67,7 @@ ga_domain: rockspeed.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不能改变世界，但愿看清世界<br>离开之前，一切都是过程"
+sidebar-about-description: "自由力是为人的基本意志, <br>坚持在浮躁的现世做一个灿烂千阳的理想主义者。"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
