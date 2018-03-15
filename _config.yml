@@ -4,7 +4,7 @@ SEOTitle: 徒阿彬的博客 | Pio Blog
 header-img: img/home-bg.jpg
 email: vuzpio@gmail.com
 description: "关于热爱的一切，有必要记录下来。 | 徒阿彬，技术方向:Java Coder(Just Can Only Be Defined As Coder, But I'm Trying.) Linux Player(Love To Research Some New IT-Technology) |兴致所好：Music > PostRock(喜欢后摇安静而爆炸，「GodSpeedYou！BlackEmperor」,「惘闻」,「Sigur Rós」忠粉) Traveller > (14年起东南岸骑行穿浙,赣,鄂,川入藏，旅行摆摊，徒搭青藏，15年滇缅边境徒步，爱大理，爱拉萨。致敬Jack Kerouac，计划苦旅东南亚，印度...)| 这里是 @Pio徒阿彬的个人博客， 愿你我一起记录美好瞬间。"
-keyword: "徒阿彬, Java, Linux, Rock, PostRock, Traveller, 博客, 个人网站, 互联网, 后端"
+keyword: "徒阿彬"
 url: "https://rockspeed.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -90,6 +90,9 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
+        title: "Pio的个人云盘",
+        href: "http://45.76.77.172:8080/owncloud/"
+    },{
         title: "Hux的博客",
         href: "http://huangxuan.me/"
     },{
