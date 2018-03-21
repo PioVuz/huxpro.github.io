@@ -7,10 +7,7 @@ author:     "Pio"
 header-img: "img/post-bg-yunnan-burma.jpg"
 tags:
     - 旅行
-    - 旅行
     - 徒步
-    - 徒步
-    - 云南
     - 云南
 ---
 
