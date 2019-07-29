@@ -1,18 +1,17 @@
 ---
 layout:     post
-title:      "「摇滚乐」_记2019太湖迷笛音乐节"
+title:      "有关「摇滚乐」记2019太湖迷笛音乐节"
 subtitle:   ""
-date:       2019-05-08 03:00:00
+date:       2019-05-08 02:00:00
 author:     "Pio"
-header-img: "img/taihu-midi.jpg"
+header-img: "img/in-post/taihu-midi.jpg"
 tags:
-	- 摇滚乐
+    - 摇滚乐
     - 迷笛
     - 音乐节
 ---
 
 > 这篇文章记录与太湖迷笛后的第三日，总觉得该写点煽情的东西。
-
 
 **摇滚乐，让我们永远年轻，永远热泪盈眶。**
 
