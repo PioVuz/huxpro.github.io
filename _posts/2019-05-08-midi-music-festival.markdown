@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "「摇滚乐」之致敬伍德斯托克"
-subtitle:   "记2019太湖迷笛音乐节"
+title:      "「摇滚乐」_记2019太湖迷笛音乐节"
+subtitle:   ""
 date:       2019-05-08 03:00:00
 author:     "Pio"
 header-img: "img/taihu-midi.jpg"
