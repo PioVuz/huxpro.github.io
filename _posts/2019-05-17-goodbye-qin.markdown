@@ -4,7 +4,7 @@ title:      "人间荒野星"
 subtitle:   ""
 date:       2019-05-17 02:00:00
 author:     "Pio"
-header-img: "img/in-post/huangyexing.jpg"
+header-img: "img/in-post/wangwen.jpg"
 tags:
     - 后摇
     - Livehouse
