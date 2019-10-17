@@ -67,7 +67,9 @@ ga_domain: www.rockspeed.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "自由力是为人的基本意志, <br>坚持在浮躁的现世做一个灿烂千阳的理想主义者。"
+#sidebar-about-description: "自由力是为人的基本意志, <br>坚持在浮躁的现世做一个灿烂千阳的理想主义者。"
+sidebar-about-description: "我认为活着最悲哀的一点在于, <br>我们一点都没有机会去想想是否有另一种生活方式。时间像卡在了某处，无意义的停滞不前。"
+
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
