@@ -4,15 +4,15 @@ title:      "使用GitHub+PicGo做个人图床"
 subtitle:   ""
 date:       2019-10-17 15:40:00
 author:     "Pio"
-header-img: "https://raw.githubusercontent.com/PioVuz/images/master/techimgs/tuchuang.png"
+header-img: "img/post-bg-tuchuang.png"
 tags:
     - 技术
     - 图床
 ---   
 
 > 之前七牛云有免费存储空间可以提供给用户做免费外链，后来由于网络备案的强制性(必须将网站及原始服务器被备案)才能使用外链。作为个人用户完全没必要花费该成本，所以我选则使用[Github](https://github.com/)做**图床**托管，并使用[PicGo](https://github.com/Molunerfinn/PicGo)开源软件做**快捷上传**工具，个人主要用于markdown笔记及blog编写。   
-
-## 取代原七牛云方案  
+ 
+##  取代原七牛云方案  
 * Github 创建仓库
 > 1. 创建仓库
 > ![](https://raw.githubusercontent.com/PioVuz/images/master/techimgs/github_shop.png)
