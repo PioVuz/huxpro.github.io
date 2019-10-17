@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "使用GitHub+PicGo做个人图床"
+subtitle:   ""
+date:       2019-10-17 15:40:00
+author:     "Pio"
+header-img: "https://raw.githubusercontent.com/PioVuz/images/master/techimgs/tuchuang.png"
+tags:
+    - 技术
+    - 图床
+---
+## 取代原七牛云方案   
+> 之前七牛云有免费存储空间可以提供给用户做免费外链，后来由于网络备案的强制性(必须将网站及原始服务器被备案)才能使用外链。作为个人用户完全没必要花费该成本，所以我选则使用[Github](https://github.com/)做**图床**托管，并使用[PicGo](https://github.com/Molunerfinn/PicGo)开源软件做**快捷上传**工具，个人主要用于markdown笔记及blog编写。   
+* Github 创建仓库
+> 1. 创建仓库
+> ![](https://raw.githubusercontent.com/PioVuz/images/master/techimgs/github_shop.png)
+> 2. 增加token![](https://raw.githubusercontent.com/PioVuz/images/master/techimgs/github1.png)
+> ![](https://raw.githubusercontent.com/PioVuz/images/master/techimgs/github2.png)
+> ![](https://raw.githubusercontent.com/PioVuz/images/master/techimgs/github3.png)
+> PS：生成token之后记得当即保存，否则只能再次生成。
+
+
+* PicGo Github图床配置  
+> 1. 请移步[PicGo](https://github.com/Molunerfinn/PicGo)下载对应安装程序。
+> 2. 安装后选择相应Github设置入口，按截图填入相应的参数。
+> ![详细配置](https://raw.githubusercontent.com/PioVuz/images/master/techimgs/20191014142831.png)   
+> 3. 配置编辑完成之后，调试检查是否成功，如果出错，请仔细对比url链接是否一致。
+> 4. PicGo支持快捷键，一键上传剪贴板png图片，并替换图片链接覆盖到新的剪贴板。ctrl-c & ctrl-v无缝链接，可谓相当贴心。
+
+
